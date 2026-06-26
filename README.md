@@ -1,4 +1,32 @@
-# 🎲 Русские обложки для рандомных игр Steam от ChatGPT 5.5
+# 🎲 Русские обложки для рандомных игр Steam от ИИ.
+
+# Переведённые
+Aperture Desk Job
+Arcade Full of Cats
+Backrooms Escape Together
+Cuphead
+Cut the rope
+Dreamcore
+Earn to Die 2
+FNAF 1
+Garten Of Banban 0-8
+Geometry Dash
+Iron Meat
+Leo's Fortune
+Level Devil
+Liminalcore
+Minecraft Dungeons, Minecraft Story Mode 1, 2
+MOTORSLICE
+Pikuniku
+Pizza Tower
+POOLS
+Portal, Portal 2
+PvZ Replanted
+Refunct
+Super Meat Boy
+The Bug Butcher
+Traffix
+Zombotron
 
 # О проекте
 Я взял свою библиотеку Steam и начал в случайном порядке доставать из неё игры. Для каждой ChatGPT 5.5 получал вертикальный постер, горизонтальный и логотип игры, а также задачу — русифицировать, сохранив стиль.
