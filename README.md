@@ -1,7 +1,7 @@
 # 🎲 Русские обложки для рандомных игр Steam от ИИ.
 
 # Переведённые
-Aperture Desk Job
+- Aperture Desk Job
 Arcade Full of Cats
 Backrooms Escape Together
 Cuphead
