@@ -1,9 +1,10 @@
 # 🎲 Русские обложки для рандомных игр Steam от ИИ.
 
-# Переведённые
+# Переведённые (30)
 - Aperture Desk Job
 - Arcade Full of Cats
 - Backrooms Escape Together
+- Clustertruck
 - Cuphead
 - Cut the rope
 - Dreamcore
@@ -17,12 +18,15 @@
 - Liminalcore
 - Minecraft Dungeons, Minecraft Story Mode 1, 2
 - MOTORSLICE
+- My Child Lebensborn Remastered
 - Pikuniku
 - Pizza Tower
 - POOLS
 - Portal, Portal 2
+- Power Hover
 - PvZ Replanted
 - Refunct
+- Subliminal
 - Super Meat Boy
 - The Bug Butcher
 - Traffix
