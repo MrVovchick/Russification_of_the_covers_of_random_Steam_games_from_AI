@@ -1,6 +1,6 @@
 # 🎲 Русские обложки для рандомных игр Steam от ИИ.
 
-# Переведённые (38)
+# Переведённые (40)
 - Aperture Desk Job
 - Arcade Full of Cats
 - Backrooms Escape Together
@@ -33,11 +33,13 @@
 - Power Hover
 - PvZ Replanted
 - Refunct
+- Snail Bob 2
 - Subliminal
 - Super Meat Boy
 - The Bug Butcher
 - Toilet Chronicles
 - Traffix
+- Wheely
 - Zombotron
 
 # О проекте
