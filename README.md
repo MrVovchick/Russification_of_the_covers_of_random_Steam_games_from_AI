@@ -1,6 +1,6 @@
 # 🎲 Русские обложки для рандомных игр Steam от ИИ.
 
-# Переведённые (40)
+# Переведённые (41)
 - Aperture Desk Job
 - Arcade Full of Cats
 - Backrooms Escape Together
@@ -9,6 +9,7 @@
 - Cuphead
 - Cut the rope
 - Dark Pals: The 1st Floor
+- Drag'n Wash
 - Dreamcore
 - Earn to Die 2
 - Finding Frankie
