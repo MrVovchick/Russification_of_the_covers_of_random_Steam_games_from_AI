@@ -1,6 +1,6 @@
 # 🎲 Русские обложки для рандомных игр Steam от ИИ.
 
-# Переведённые (41)
+# Переведённые (46)
 - Aperture Desk Job
 - Arcade Full of Cats
 - Backrooms Escape Together
@@ -24,7 +24,9 @@
 - Leo's Fortune
 - Level Devil
 - Liminalcore
+- Lost in Play
 - Minecraft Dungeons, Minecraft Story Mode 1, 2
+- Monkey GO Happy
 - MOTORSLICE
 - My Child Lebensborn Remastered
 - Pikuniku
@@ -34,9 +36,12 @@
 - Power Hover
 - PvZ Replanted
 - Refunct
+- Schoolboy Runaway
+- Shotgun King The Final Chekmate
 - Snail Bob 2
 - Subliminal
 - Super Meat Boy
+- Thats not my Neighbor
 - The Bug Butcher
 - Toilet Chronicles
 - Traffix
