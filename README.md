@@ -1,10 +1,11 @@
 # 🎲 Русские обложки для рандомных игр Steam от ИИ.
 
-# Переведённые (46)
+# Переведённые (48)
 - Aperture Desk Job
 - Arcade Full of Cats
 - Backrooms Escape Together
 - Black Mesa
+- Call of Duty Modern Warfare Remastered
 - Clustertruck
 - Cuphead
 - Cut the rope
@@ -39,6 +40,7 @@
 - Schoolboy Runaway
 - Shotgun King The Final Chekmate
 - Snail Bob 2
+- Sonic Origins
 - Subliminal
 - Super Meat Boy
 - Thats not my Neighbor
